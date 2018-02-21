@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">InClass11</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="sign_up">sign_up</string>
+    <string name="not_a_member">Not a member</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="name">Name:</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="create_contact">create Contacts</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">update</string>
+    <string name="name_edit">name Edit</string>
+    <string name="phone_edit">phone Edit</string>
+    <string name="confirm">Confirm delete</string>
+</resources>
